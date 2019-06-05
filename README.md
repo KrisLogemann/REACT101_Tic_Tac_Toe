@@ -1,4 +1,9 @@
 # tic-tac-toe
+My first project in react.
+
+Author Michael Roberts JR.
+
+Modified by Kris Logemann.
 
 An interactive tic-tac-toe game.
 
